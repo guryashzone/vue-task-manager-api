@@ -16,3 +16,4 @@ To start
 PORT=3000
 MONGODB_URL=mongodb://localhost:27017/vue-task-manager-api
 JWT_SECRET=yours3cr3t
+```
